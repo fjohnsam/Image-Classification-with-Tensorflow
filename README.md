@@ -1,6 +1,7 @@
 # Image-Classification-with-Tensorflow
 
 HyperParameters:
+
 Number of layers = 3
 Hidden layer size = 150 Learning rate = 0.00005 Regularization parameter = 0.5 Batch size = 500
 Number of epochs = 50 Patience = 5
