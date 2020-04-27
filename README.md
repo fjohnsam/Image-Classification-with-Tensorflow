@@ -3,11 +3,16 @@
 HyperParameters:
 
 Number of layers = 3
-Hidden layer size = 150 Learning rate = 0.00005 Regularization parameter = 0.5 Batch size = 500
-Number of epochs = 50 Patience = 5
+Hidden layer size = 150 
+Learning rate = 0.00005 
+Regularization parameter = 0.5 
+Batch size = 500
+Number of epochs = 50 
+Patience = 5
 Activation function = ReLU
 Optimiser = Gradient descent
-Batch generator = np.random.choice() Train - Validation split = 5 : 1
+Batch generator = np.random.choice() 
+Train - Validation split = 5 : 1
 Logistic regression solver = ‘saga’
 
 Results:
