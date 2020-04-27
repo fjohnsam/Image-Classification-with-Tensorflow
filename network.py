@@ -1,8 +1,4 @@
-
-# Computing Lab 2
-# Assignment 10 (Deep Learning)
-# Name: Febin John sam
-# Roll No : 19CS60R53
+#Copyright: Febin John Sam (fjohnsam96@gmail.com)
 
 #Code written based on tensorflow 1
 #Tensorflow 2 package used and version 2 behaviour disabled
